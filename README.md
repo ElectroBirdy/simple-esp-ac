@@ -54,5 +54,5 @@ An experimental project using an ESP32 microcontroller to control a repurposed h
 You can adjust the characteristics of your thermistors in the code:
 
 ```cpp
-#define BETA 3950           // Thermistor B-value
+#define BETA 3435           // Thermistor B-value
 #define R_FIXED 10000       // Fixed resistor in voltage divider (ohms)
